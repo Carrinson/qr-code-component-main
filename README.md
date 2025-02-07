@@ -23,7 +23,7 @@ This is a screenshot of my website
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [[Add live site URL here]((https://carrinson-qr-code-component.netlify.app/))]
+- Live Site URL: [Add live site URL here]((https://carrinson-qr-code-component.netlify.app/))
 
 ### What I learned
 
