@@ -23,7 +23,7 @@ This is a screenshot of my website
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [[Add live site URL here](https://your-live-site-url.com)](https://carrinson-qr-code-component.netlify.app/)
+- Live Site URL: [[Add live site URL here]((https://carrinson-qr-code-component.netlify.app/))]
 
 ### What I learned
 
@@ -31,6 +31,6 @@ I relearnt how to use basic html to arrange my texts and how to use css styles t
 
 ## Author
 
-- Website - [Carrinson]([https://www.your-site.com](https://carrinson-qr-code-component.netlify.app/))
+- Website - [Carrinson](https://carrinson-qr-code-component.netlify.app/))
 
 
